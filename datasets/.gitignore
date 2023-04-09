@@ -1,4 +1,4 @@
 test/*
 train/*
 balancing/*
-balancing_labels.csv
+4_crop_submission1.csv
